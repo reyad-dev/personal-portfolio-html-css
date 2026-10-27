@@ -2,7 +2,7 @@
   <img src="repo-icon.svg" width="180" alt="Personal Portfolio project icon" />
 </p>
 
-# ReyadPortfolio — Personal Portfolio Website Template in HTML & CSS
+# ReyadPortfolio | Personal Portfolio Website Template in HTML & CSS
 
 **ReyadPortfolio**, created by **Mohamed Reyad (@reyad-dev)**, is a classic **personal portfolio website template** built with HTML and CSS for showcasing web design, graphic design, online marketing, SEO skills, education, work experience, and contact information.
 
