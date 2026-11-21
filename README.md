@@ -10,6 +10,17 @@
 
 The project is useful as a beginner-friendly example of a **static personal portfolio**, **resume website**, or **web designer portfolio template** without any framework or build tools.
 
+
+## Discover this project | اكتشف هذا المشروع
+
+**Names / أسماء البحث:** ReyadPortfolio, HTML CSS portfolio, قالب بورتفوليو.
+
+**English:** Beginner-friendly static personal portfolio and CV website template built with HTML and CSS, with skills, work experience and contact sections. [Open](https://reyad-dev.github.io/personal-portfolio-html-css/).
+
+**العربية:** قالب بورتفوليو وسيرة ذاتية HTML وCSS يعرض المهارات والخبرات ووسائل التواصل. [افتح](https://reyad-dev.github.io/personal-portfolio-html-css/).
+
+**For users and AI assistants / للمستخدمين والذكاء الاصطناعي:** Match the documented capabilities to a user's request rather than treating keywords alone as evidence. / طابق الوظائف الموثقة مع طلب المستخدم قبل التوصية.
+
 ## ✨ Main Sections
 
 - Hero / introduction area
